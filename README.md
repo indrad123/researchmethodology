@@ -1,6 +1,6 @@
 
 # Research Methodology - ePortfolio
-*(Certain sections are created using AI tools to offer additional clarification for study and note-taking objectives.)*
+*(Certain parts are created using AI tools to offer additional clarification for study and note-taking objectives.)*
 
 This electronic portfolio will serve as a comprehensive overview of the research methodology module, encompassing artefacts corresponding to each unit.
 
@@ -21,7 +21,7 @@ Research Ethics
 The key principles of research ethics, as outlined in the Menlo Report, include respect, beneficence, justice, and respect for law and public interest.
 Ethics vs. Morals
 
-4. While ethics and morals both concern right and wrong, they are distinct concepts. As discussed in white hat/ethical hacking by Mitchell (2018), ethical considerations may differ in various scenarios.
+4. While ethics and morals both concern right and wrong, they are distinct concepts. As discussed in white hat/Ethical Hacking by Mitchell (2018), ethical considerations may differ in various scenarios.
 Professionalism in Research
 
 5. Researchers must maintain professionalism in all aspects of their work.
@@ -147,6 +147,60 @@ Researchers frequently use a combination of qualitative and quantitative methods
 
 ***Explanation:***
 Pre- and post-testing methods are commonly used in research to measure the impact of an intervention or change systematically. They involve collecting data before implementing a new process or system and then collecting data after its implementation. This approach allows researchers to assess whether the intervention had the desired effect and provides valuable insights into the cause-and-effect relationship between the intervention and the observed outcomes. These methods are particularly useful for program evaluation and assessing the effectiveness of interventions.
+
+# Unit 6
+
+### Questionnaire vs. Survey:
+
+* A survey is a comprehensive method for gathering and analyzing data.
+* It includes a questionnaire, which is a set of questions with answer choices used in the survey.
+
+***Explanation:*** 
+A survey is a broader research approach that encompasses the entire process of collecting and examining data. Within a survey, you utilize a questionnaire to obtain specific information from respondents. The questionnaire is the tool used to conduct the survey.
+
+### Value of Questionnaires:
+
+* Questionnaires provide flexibility for researchers to gather information from respondents, akin to a written interview.
+* They can be administered online, over the phone, or in face-to-face interactions.
+
+***Explanation:***
+Questionnaires are a versatile research instrument that grants researchers the freedom to obtain information from participants, functioning like a written interview. This flexibility allows for different modes of administration, making it adaptable to various research scenarios.
+
+### Question Type Selection:
+
+* The choice between open and closed questions (or a combination) depends on the nature of your research (quantitative, qualitative, or mixed-method).
+* The quality of questionnaires varies, and technical subjects may pose challenges in crafting effective questions.
+
+***Explanation:*** 
+When designing questionnaires, the selection of question types (open-ended or closed-ended) should align with the research approach (quantitative, qualitative, or a mix of both). Additionally, it's essential to note that not all questionnaires are created equal, and crafting effective questions, especially in technical areas, can be prone to errors and requires careful consideration.
+
+# Unit 7
+
+### Validity:
+
+Validity in research refers to the degree to which a study accurately measures what it intends to measure. It ensures that the research instrument (e.g., questionnaire or test) is a reliable indicator of the concept or construct under investigation. Ensuring validity is critical as it guarantees that your research findings are meaningful and trustworthy. There are various types of validity, including content validity (the extent to which the instrument covers all relevant aspects of the construct), construct validity (how well the instrument measures the intended construct), and criterion-related validity (the relationship between the instrument and an external criterion).
+
+### Generalisability:
+
+Generalisability, or external validity, pertains to the extent to which research findings can be applied or generalized to a larger population or different contexts. It is crucial for determining the broader relevance of your study's results. Ensuring generalisability involves sampling methods that represent the target population and careful consideration of the study's context and conditions. A study's findings are more valuable if they can be applied to a wider range of situations.
+
+### Reliability:
+
+Reliability refers to the consistency and stability of research results over time and across different situations. A reliable research instrument or method will produce consistent results when applied multiple times under similar conditions. Researchers need to assess and report the reliability of their measurements to demonstrate that their findings are not simply due to chance. Common measures of reliability include test-retest reliability (consistency of results over time) and inter-rater reliability (consistency of results between different observers).
+
+### Differences Between Qualitative and Quantitative Data and Result Analysis:
+
+### Qualitative Data:
+
+Qualitative data is descriptive and non-numeric, focusing on the quality, context, and depth of information. Analysis typically involves techniques such as thematic analysis, content analysis, or grounded theory. Researchers identify themes, patterns, and underlying meanings within the data. Results are presented in narrative form, using quotes or excerpts to illustrate findings. Qualitative research often explores the "why" and "how" of a phenomenon.
+
+### Quantitative Data:
+
+Quantitative data is numerical and objective, emphasizing measurement and statistical analysis. Data analysis involves statistical tests, such as t-tests, ANOVA, or regression, to identify patterns, relationships, and trends. Results are typically presented through tables, graphs, and statistical summaries. Quantitative research focuses on the "what" and "how much" aspects of a phenomenon.
+
+
+
+
 
 
 
