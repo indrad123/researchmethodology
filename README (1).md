@@ -1,6 +1,6 @@
 
 # Research Methodology - ePortfolio
-*(Certain parts of this Readme are created using AI tools to offer additional clarification for study and note-taking objectives.)*
+*(Certain parts of this study note are created using AI tools to offer additional clarification for study and note-taking objectives.)*
 
 This electronic portfolio will serve as a comprehensive overview of the research methodology module, encompassing artefacts corresponding to each unit.
 
