@@ -66,11 +66,11 @@ Dawson, C.W. (2015) _Projects in computing and information systems: A student’
 
 Lester, J.N., Cho, Y. & Lochmiller, C.R. (2020) Learning to Do Qualitative Data Analysis: A Starting Point. _Human Resource Development Review_. \[Online] 19 (1), 94–106. Available from: doi:10.1177/1534484320903890.
 
-Singh, A. (2021) ‘An introduction to experimental and exploratory research’, _SSRN Electronic Journal_ \[Preprint]. doi:10.2139/ssrn.3789360.
+Singh, A. (2021) ‘An introduction to experimental and exploratory research’, _SSRN Electronic Journal_ \[Preprint]. DOI:10.2139/ssrn.3789360.
 
 Turale, S. (2020) A brief introduction to qualitative description: A research design worth using. _Pacific Rim International Journal of Nursing Research_, _24_(3), pp.289-291.
 
-Voxco_._ (2023) _Bridging the gap: Exploratory vs conclusive research methods_. Available at: https://www.voxco.com/blog/the-difference-between-exploratory-and-conclusive-research/ (Accessed: 29 October 2023).
+Voxco. (2023) Bridging the gap: Exploratory vs conclusive research methods. Available at: https://www.voxco.com/blog/the-difference-between-exploratory-and-conclusive-research/ (Accessed: 29 October 2023).
 
 &#x20;
 
