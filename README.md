@@ -1,7 +1,5 @@
 # Reflecting on the Research Methodology Module
 
-
-
 ## Introduction
 
 The research methodology module holds a significant position in my academic journey as it serves as the gateway to undertaking research projects. This module equips students with the necessary tools and techniques for conducting research. It explores into various research methods, going deep into the nuances of data collection and analysis, and fosters a profound comprehension of the research process.
@@ -28,19 +26,19 @@ An integral part of research methodology is data collection and analysis. The mo
 
 Qualitative and quantitative data analysis often used together. The combination of both methods is to gain holistic view on a research topic. Quantitative analysis often uses the survey method. While qualitative analysis has a bit complicated method. Lester et al. (2020) has defined seven steps to get the qualitative analysis:
 
-1\.    Familiarization with the data.
+1\. Familiarization with the data.
 
-2\.    Initial coding.
+2\. Initial coding.
 
-3\.    Searching for the pattern.
+3\. Searching for the pattern.
 
-4\.    Reviewing the pattern.
+4\. Reviewing the pattern.
 
-5\.    Defining and naming the pattern.
+5\. Defining and naming the pattern.
 
-6\.    Preparing the report.
+6\. Preparing the report.
 
-7\.    Maintaining a systematic review.
+7\. Maintaining a systematic review.
 
 These steps provide a foundation for topic-specific review in the qualitative analysis.
 
@@ -64,14 +62,10 @@ The materials gathered from this module are available for access via the followi
 
 Dawson, C.W. (2015) _Projects in computing and information systems: A student’s guide_. Harlow: Pearson Education Limited.
 
-Lester, J.N., Cho, Y. & Lochmiller, C.R. (2020) Learning to Do Qualitative Data Analysis: A Starting Point. _Human Resource Development Review_. \[Online] 19 (1), 94–106. Available from: doi:10.1177/1534484320903890.
+Lester, J.N., Cho, Y. & Lochmiller, C.R. (2020) Learning to Do Qualitative Data Analysis: A Starting Point. _Human Resource Development Review_ 19 (1): 94–106. DOI: https://doi.org/10.1177/1534484320903890.
 
-Singh, A. (2021) ‘An introduction to experimental and exploratory research’, _SSRN Electronic Journal_ \[Preprint]. DOI:10.2139/ssrn.3789360.
+Singh, A. (2021) ‘An introduction to experimental and exploratory research’, _SSRN Electronic Journal_. DOI: https://doi.org/10.2139/ssrn.3789360.
 
-Turale, S. (2020) A brief introduction to qualitative description: A research design worth using. _Pacific Rim International Journal of Nursing Research_, _24_(3), pp.289-291.
+Turale, S. (2020) A brief introduction to qualitative description: A research design worth using. _Pacific Rim International Journal of Nursing Research_ _24_(3): 289-291.
 
-Voxco. (2023) Bridging the gap: Exploratory vs conclusive research methods. Available at: https://www.voxco.com/blog/the-difference-between-exploratory-and-conclusive-research/ (Accessed: 29 October 2023).
-
-&#x20;
-
-&#x20;
+Voxco_._ (2023) _Bridging the gap: Exploratory vs conclusive research methods_. Available at: https://www.voxco.com/blog/the-difference-between-exploratory-and-conclusive-research/ (Accessed: 29 October 2023).
