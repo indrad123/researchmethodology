@@ -18,7 +18,7 @@ The module has highlighted the significance of a meticulously planned research f
 
 Research design is divided into two main parts, exploratory research, and conclusive research. Exploratory research uses the approach to analyse a specific domain with an undefined problem and try to explore this problem by understanding the situation. Typically, the research cannot be conducted in a controlled environment (Singh, 2021). On the other hand, conclusive research is research based on quantitative analysis to reach a conclusion and decision to prove a hypothesis (Voxco, 2023).
 
-Evaluating my Literature Review and Research Proposal submissions, I can see a significant growth in my understanding of the research process. It allowed me to get an understanding of how to formulate a research question. I realize that there is always room for improvement. The critical analysis skill has improved as I have learned to evaluate and synthesize a wide range of literature effectively. However, I still need to enhance my ability to criticize the sources more rigorously to seek the potential biases and limitations in the studies that I review.
+Evaluating my Literature Review and Research Proposal submissions, I can see a significant growth in my understanding of the research process. It provided me with the knowledge and skills to craft a well-structured research query. Continuous improvement is a perpetual possibility. The critical analysis skill has improved as I have learned to evaluate and synthesize a wide range of literature effectively. However, I still need to enhance my ability to criticize the sources more rigorously to seek the potential biases and limitations in the studies that I review.
 
 ## Data Collection and Analysis
 
