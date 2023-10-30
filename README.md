@@ -4,8 +4,6 @@
 
 The research methodology module holds a significant position in my academic journey as it serves as the gateway to undertaking research projects. This module equips students with the necessary tools and techniques for conducting research. It explores into various research methods, going deep into the nuances of data collection and analysis, and fosters a profound comprehension of the research process.
 
-Ethics is also a pivotal topic addressed in this module, particularly for researchers engaged in research activities. This subject aligns with the prerequisites outlined in the BCS code of conduct, which is an integral part of conducting research projects. The ethics component encompasses aspects such as data protection and intellectual property rights.
-
 ## Understanding the Basics
 
 The central question revolves around the role of research methodology. Research serves various purposes, including exploration, description, and explanation, and it relies on the scientific method as a fundamental framework that encompasses observation, hypothesis formulation, reasoning, and testing. Research methodology equips researchers with the necessary knowledge and tools to proficiently manage every aspect of research projects, from planning and execution to the creation of comprehensive reports (Dawson, 2015: 17-27).
@@ -19,6 +17,8 @@ As we conclude our project and write the report or research article, ethical con
 The module has highlighted the significance of a meticulously planned research framework. It has provided instruction on crafting research inquiries, developing hypotheses, outlining research procedures, and defining objectives. Additionally, the module has delved into various research design options, including quantitative, qualitative, and mixed methods, stressing the importance of selecting the most appropriate design for a given field. This aspect holds paramount importance in the area of research development.
 
 Research design is divided into two main parts, exploratory research, and conclusive research. Exploratory research uses the approach to analyse a specific domain with an undefined problem and try to explore this problem by understanding the situation. Typically, the research cannot be conducted in a controlled environment (Singh, 2021). On the other hand, conclusive research is research based on quantitative analysis to reach a conclusion and decision to prove a hypothesis (Voxco, 2023).
+
+Evaluating my Literature Review and Research Proposal submissions, I can see a significant growth in my understanding of the research process. It allowed me to get an understanding of how to formulate a research question. I realize that there is always room for improvement. The critical analysis skill has improved as I have learned to evaluate and synthesize a wide range of literature effectively. However, I still need to enhance my ability to criticize the sources more rigorously to seek the potential biases and limitations in the studies that I review.
 
 ## Data Collection and Analysis
 
