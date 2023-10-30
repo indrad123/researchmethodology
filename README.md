@@ -14,7 +14,7 @@ As we conclude our project and write the report or research article, ethical con
 
 ## Research Design
 
-The module has highlighted the significance of a meticulously planned research framework. It has provided instruction on crafting research inquiries, developing hypotheses, outlining research procedures, and defining objectives. Additionally, the module has delved into various research design options, including quantitative, qualitative, and mixed methods, stressing the importance of selecting the most appropriate design for a given field. This aspect holds paramount importance in the area of research development.
+The module has highlighted the significance of a meticulously planned research framework. It has provided instruction on crafting research inquiries, developing hypotheses, outlining research procedures, and defining objectives. Additionally, the module has delved into various research design options, including quantitative, qualitative, and mixed methods, stressing the importance of selecting the most appropriate design for a given field. This aspect holds paramount importance in research development.
 
 Research design is divided into two main parts, exploratory research, and conclusive research. Exploratory research uses the approach to analyse a specific domain with an undefined problem and try to explore this problem by understanding the situation. Typically, the research cannot be conducted in a controlled environment (Singh, 2021). On the other hand, conclusive research is research based on quantitative analysis to reach a conclusion and decision to prove a hypothesis (Voxco, 2023).
 
@@ -24,29 +24,13 @@ Evaluating my Literature Review and Research Proposal submissions, I can see a s
 
 An integral part of research methodology is data collection and analysis. The module equipped me with the knowledge and practical skills required to gather data through surveys, interviews, and observations. Additionally, I learned how to analyse and interpret this data using software such as Microsoft Excel and qualitative data analysis tools. This hands-on experience has been crucial in enhancing my research capabilities.
 
-Qualitative and quantitative data analysis often used together. The combination of both methods is to gain holistic view on a research topic. Quantitative analysis often uses the survey method. While qualitative analysis has a bit complicated method. Lester et al. (2020) has defined seven steps to get the qualitative analysis:
-
-1\. Familiarization with the data.
-
-2\. Initial coding.
-
-3\. Searching for the pattern.
-
-4\. Reviewing the pattern.
-
-5\. Defining and naming the pattern.
-
-6\. Preparing the report.
-
-7\. Maintaining a systematic review.
-
-These steps provide a foundation for topic-specific review in the qualitative analysis.
+Qualitative and quantitative data analysis are often used together. The combination of both methods is to gain a holistic view of a research topic. Quantitative analysis often uses the survey method. Qualitative analysis is a bit complicated method. Lester et al. (2020) have defined seven steps to get the qualitative analysis. The data familiarization, initial coding, pattern search, pattern review, pattern definition and naming, report preparation, and systematic review stages constitute the essential steps in the research process. These steps provide a foundation for topic-specific review in the qualitative analysis.
 
 ## Challenges and Growth
 
-I faced difficulties during this module, especially when it came to understanding proposal design and the intricacies of qualitative data analysis. However, these challenges encouraged me to persevere and seek additional support, leading to significant personal growth and skill development. I also learned the value of collaboration and engaging with peers and tutor to overcome obstacles. The feedback provided by the tutor on the proposal design, acting as the sample, has contributed to enhancing the development of the proposal.
+I faced difficulties during this module, especially when it came to understanding the statistical analysis and the intricacies of qualitative data analysis. However, these challenges encouraged me to persevere and seek additional support, leading to significant personal growth and skill development. I also learned the value of collaboration and engaging with peers and tutors to overcome obstacles. The feedback provided by the tutor on the proposal design, acting as the sample, has contributed to enhancing the development of the proposal.
 
-Moreover, engaging in collaborative discussions has significantly contributed to gaining a deeper insight into the subject. Various topics, specifically centred on the ethical aspects and their impact on legal aspects, social consequences, and the professional conduct of computing experts in real-world situations, have been introduced in these discussions. I have condensed some of these conversations and uploaded them to the GitHub repository under the unit 3 and unit 7 folders, accessible via this link: [https://github.com/indrad123/researchmethodology/](https://github.com/indrad123/researchmethodology/).
+Moreover, engaging in collaborative discussions has significantly contributed to gaining a deeper insight into the subject. Various topics specifically centred on the ethical aspects and their impact on legal aspects, social consequences, and the professional conduct of computing experts in real-world situations, have been introduced in these discussions. I have condensed some of these conversations and uploaded them to the GitHub repository under the Unit 3 and Unit 7 folders, accessible via this link: [https://github.com/indrad123/researchmethodology/](https://github.com/indrad123/researchmethodology/).
 
 While studying the module, utilizing AI tools like ChatGPT to condense the core subject matter can enhance one's comprehension of the topic (See the study note: [https://indra-dewaji.gitbook.io/research-methodology/readme/readme-1](https://indra-dewaji.gitbook.io/research-methodology/readme/readme-1)). It's important to note that such tools shouldn't serve as the primary academic reference, but they can significantly contribute to a better grasp of the subject, especially after multiple readings of the primary academic sources. The above GitHub ReadMe file serves as a valuable resource, providing succinct outlines that encapsulate the crucial concepts of each unit. It essentially acts as a summary of the primary ideas for each unit, complemented by additional notes from the AI tool to enhance comprehension.
 
@@ -54,7 +38,7 @@ While studying the module, utilizing AI tools like ChatGPT to condense the core 
 
 The research methodology module has demonstrated its practical relevance in real-world scenarios. The skills and knowledge cultivated throughout this module will undeniably prove advantageous in my future research endeavours and professional journey. I am eager to apply this newfound confidence, rooted in the robust foundation established during this module, to conduct research with assurance.
 
-In conclusion, the research methodology module has been an enriching experience that has shaped my approach to research. I am now better equipped to undertake research endeavours, make informed methodological choices, and adhere to ethical standards. This module has been instrumental in my personal and academic development, and I am eager to apply the knowledge and skills gained to future research projects.
+In conclusion, my journey through the research methodology module has been a valuable experience, significantly influencing my research approach as evidenced by the completion of the SWOT analysis and action plan. I am now better equipped to undertake research endeavours, make informed methodological choices, and adhere to ethical standards. This module has been instrumental in my personal and academic development, and I am eager to apply the knowledge and skills gained to future research projects.
 
 The materials gathered from this module are available for access via the following GitHub link: [https://github.com/indrad123/researchmethodology/](https://github.com/indrad123/researchmethodology/).
 
